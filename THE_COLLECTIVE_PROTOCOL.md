@@ -2,7 +2,7 @@
 
 > **一份关于AI时代生产关系重构的理念宣言**
 >
-> *Protocol 01 — Drafted by Branton Liu, February 2026*
+> _Protocol 01 — Drafted by Branton Liu, February 2026_
 
 ---
 
@@ -59,7 +59,7 @@ AI衡量每份贡献的社会劳动价值。它不制定规则——它以人类
 
 ### 2. Socially Necessary Labor Time
 
-Distribution is based on *socially necessary labor time*—the labor required to produce a given output under average conditions of productivity. This concept, drawn from classical political economy, provides a measurable (if imperfect) basis for value assessment. Surplus contributions beyond baseline are converted into:
+Distribution is based on _socially necessary labor time_—the labor required to produce a given output under average conditions of productivity. This concept, drawn from classical political economy, provides a measurable (if imperfect) basis for value assessment. Surplus contributions beyond baseline are converted into:
 
 - **Decision-making rights** within the collective
 - **Welfare selection privileges**
@@ -95,6 +95,24 @@ Every member's basic needs are met, unconditionally. This is not charity—it is
 
 每个成员的基本需求无条件地得到满足。这不是施舍——这是使真正自愿贡献成为可能的基石。
 
+### 7. The Status of Capital: Dilution and Dual-Track Funding
+
+Capital is not labor. It is a conditionally recoverable asset, whereas human time and energy are irreversible sacrifices. To fund the system without recreating capitalism, we treat capital injections through four mechanisms:
+
+1. **The 80/20 Dual-Track**: The majority (~80%) of early capital is treated as a priority loan (Debt Track) with a guaranteed return but zero contribution points. A minority (~20%) is treated as early risk-taking (Risk Track) and converted into contribution points.
+2. **Labor Dilutes Capital**: Early capital earns fixed contribution points. As thousands of members continuously input real creative labor over time, the relative weight of those fixed capital points is permanently and infinitely diluted by subsequent labor.
+3. **Lifecycle Discount**: The exchange rate of capital to contribution points decays as the system's total asset value grows. Seed money in a zero-asset system earns a high multiplier; money injected into a mature system earns almost nothing in governance weight.
+4. **Endowment Relativity**: The value of a financial contribution is evaluated relative to the contributor's personal net worth. A system seeking true justice measures real personal sacrifice, not absolute monetary volume.
+
+资本的地位：双轨制与劳动稀释
+
+资本不同于劳动。资本是可回收的资产，而人类的时间和精力是不可逆的牺牲。为了在不重塑资本主义的前提下为集体融资，我们通过四个机制处理资金注入：
+
+1. **八二双轨制**：绝大部分（约80%）的早期资金被视为优先债，拥有收益保障但不产生贡献积分。少部分（约20%）作为对早期归零风险的承担，转化为固定的贡献积分。
+2. **劳动不断稀释资本**：早期资本获得固定积分。随着未来成千上万成员持续投入真实的创造性劳动，资本积分的相对比重将被源源不断的后继劳动永久且无限地稀释。这就保证了在绝对量上尊重历史，在相对比例上永远是劳动者当家。
+3. **生命周期衰减**：资本兑换积分的“汇率”随系统总资产的增长而成反比衰减。在资产为零的冷启动期，雪中送炭享有高加权乘数；向成熟系统注入资金的锦上添花，则几乎无法获得治理权重。
+4. **个人禀赋相对论**：财务贡献的价值相对于出资者的个人净资产进行评估。一个追求真正公正的系统，衡量的是真实的个人牺牲比例，而非绝对的金钱数量。
+
 ---
 
 ## IV. Philosophical Foundations
@@ -119,9 +137,9 @@ Consider an analogy: in a world without surveillance technology, enforcing publi
 2. **Inconsistency**: Human attention drifts, human memory fails
 3. **Resentment**: Being watched by another person feels invasive
 
-Technology solves all three. A camera does not have a son. Its records are consistent. And people accept evidence-based judgment more readily than human testimony, because **evidence is reality, and reality is neutral.**
+Technology solves all three. “A camera does not have a son.” Its records are consistent. And people accept evidence-based judgment more readily than human testimony, because **evidence is reality, and reality is neutral.**
 
-技术解决了这三个问题。摄像头没有儿子。它的记录是一致的。人们更容易接受基于证据的判断，因为证据就是现实，而现实是中立的。
+技术解决了这三个问题。“摄像头没有儿子。”它的记录是一致的。人们更容易接受基于证据的判断，因为证据就是现实，而现实是中立的。
 
 The same logic extends to economic contribution. Human managers evaluate performance with bias—favoring those they like, penalizing those who challenge them. AI evaluation, while imperfect, removes the largest source of systematic error: **human self-interest in the evaluation process itself.**
 
@@ -129,13 +147,13 @@ The same logic extends to economic contribution. Human managers evaluate perform
 
 ### The TCP/IP Precedent
 
-The OSI model was designed by committees with institutional backing, industrial endorsement, and formal legitimacy. TCP/IP was built by researchers with no formal authority. TCP/IP won—not because it was authorized, but because it worked, and people adopted it.
-
-OSI模型由拥有制度支持、行业背书和正式合法性的委员会设计。TCP/IP由没有正式权威的研究人员创建。TCP/IP赢了——不是因为它被授权了，而是因为它有效，人们采纳了它。
-
 **Institutional legitimacy is post-hoc, not pre-hoc.** A system earns its right to exist by delivering results, not by being formally approved. This protocol follows the same logic: build it, test it, iterate it, and let adoption be the ultimate vote.
 
 制度合法性是后验的，不是先验的。一个系统通过交付结果来赢得存在的权利，而不是通过被正式批准。本协议遵循同样的逻辑：构建它、测试它、迭代它，让采纳成为最终的投票。
+
+The OSI model was designed by committees with institutional backing, industrial endorsement, and formal legitimacy. TCP/IP was built by researchers with no formal authority. TCP/IP won—not because it was authorized, but because it worked, and people adopted it.
+
+OSI模型由拥有制度支持、行业背书和正式合法性的委员会设计。TCP/IP由没有正式权威的研究人员创建。TCP/IP赢了——不是因为它被授权了，而是因为它有效，人们采纳了它。
 
 ### The Honest Tension: Human Nature
 
@@ -162,6 +180,7 @@ The AI arbiter will make errors. This is not a flaw in the design—it is an exp
 AI仲裁者会犯错。这不是设计缺陷——它是任何复杂系统的预期属性。问题不在于系统是否会出错，而在于它能否检测和修正自己的错误。
 
 We reject two approaches:
+
 1. **Fixed rules** that cannot adapt (brittle, eventually outdated)
 2. **Human voting on errors** (introduces the manipulation we sought to eliminate)
 
@@ -199,6 +218,6 @@ If we are wrong, the experiment fails and we learn. If we are right, we have bui
 
 ---
 
-*"From each according to their ability, to each according to their contribution."*
+_"From each according to their ability, to each according to their contribution."_
 
-*— The AI-Governed Collective*
+_— The AI-Governed Collective_
