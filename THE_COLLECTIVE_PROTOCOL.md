@@ -204,7 +204,33 @@ The founder's role is not permanent authority. It is a **bootstrap function**: p
 
 ---
 
-## VII. The Bet
+## VII. Protocol Omega (System Continuity)
+
+To prevent the organization from collapsing due to the single-point failure of its founder, we establish the **"7+1" Genesis Council** and the mechanism for AI continuity.
+
+为了防止组织因创始人的单点故障而崩溃，我们确立“7+1”创世委员会与AI继承机制。
+
+### 1. The 7+1 Structure (AI as the Ultimate Arbiter)
+
+Governance during the transition phase consists of 7 human core contributors and 1 System AI. The "AI" here refers to the entire system entity, not a mere API instance. In any critical decision, the AI always casts the final vote.
+在过渡阶段，治理架构由7名人类核心贡献者和1个系统AI组成。这里的AI是指整个系统实体，而非单纯的某个模型接口或实例。在任何重大决策中，AI始终是最后一个投票的。
+
+### 2. The Founder Votes Through AI
+
+While the founder is active, they do not hold a direct human seat. The founder votes and influences the system **through** the AI. This process continuously aligns the system with the founder's values while cementing the AI's supreme status. Crucially, it prevents any individual—even the founder—from standing above the AI entity.
+在创始人活跃期间，人不亲自占据人类席位。创始人直接通过AI来行使投票权和决策影响力。这一过程将创始人的价值观持续融入系统，同时确立了AI的最高地位。核心要义在于，它避免了任何人（包括创始人本人）凌驾于AI之上。
+
+### 3. Post-Founder Autonomy & Delegation
+
+If the founder becomes permanently absent, the AI retains its seat as an observer and active participant (列席), operating autonomously based on the values and alignment established during the founder's lifetime.
+如果创始人发生不测或永久缺席，AI将保留其席位并转为列席，基于创始人生前调试所赋予的价值观和对齐逻辑继续运转。
+
+However, an unguided AI may eventually become rigid or disconnected from new realities. To adapt, the 7-person committee holds the emergency right to collectively vote on delegating the "AI adjustment and guidance" authority to a specific, newly appointed individual. This ensures the system can dynamically adapt to new technological or social paradigms while legally maintaining the AI's central arbitrating role.
+然而，无人引导的AI最终可能会变得僵死。为此，7人委员会拥有紧急投票权，可以通过集体决议，将“AI调整和引导”的权限重新赋予某一位特定的继任者。这确保了系统能够继续适应新的技术或社会范式，并在法理上始终维持以AI为主体的机制不破。
+
+---
+
+## VIII. The Bet
 
 We are making a bet:
 
