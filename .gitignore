@@ -1,2 +1,14 @@
 # Local files
 local/
+
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# Misc
+.DS_Store
+*.env
+web/
