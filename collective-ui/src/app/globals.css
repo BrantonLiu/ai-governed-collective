@@ -1,0 +1,55 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --color-brand: #4dd9ff;
+  --color-brand-glow: rgba(77, 217, 255, 0.15);
+  --color-surface-1: rgba(255, 255, 255, 0.03);
+  --color-border-dim: rgba(255, 255, 255, 0.08);
+}
+
+@layer base {
+  :root {
+    --background: #000000;
+    --foreground: #f0f2f5;
+  }
+
+  body {
+    background-color: var(--background);
+    color: var(--foreground);
+    @apply antialiased overflow-x-hidden;
+  }
+
+  ::selection {
+    @apply bg-brand/40 text-white;
+  }
+
+  /* Scrollbar */
+  ::-webkit-scrollbar {
+    width: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #000;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #222;
+    border-radius: 3px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #444;
+  }
+}
+
+@layer utilities {
+  .text-glow {
+    text-shadow: 0 0 20px rgba(77, 217, 255, 0.5), 0 0 40px rgba(77, 217, 255, 0.3);
+  }
+  
+  .glass-panel {
+    @apply bg-surface-1 border border-border-dim backdrop-blur-md relative overflow-hidden;
+  }
+  
+  .animus-divider {
+    @apply w-px h-4 bg-border-dim mx-4;
+  }
+}
