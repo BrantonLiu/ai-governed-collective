@@ -4,6 +4,9 @@ local/
 # Dependencies
 node_modules/
 
+# Build
+dist/
+
 # Next.js
 .next/
 out/
